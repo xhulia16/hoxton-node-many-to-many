@@ -79,43 +79,43 @@ const interviews=[
     {
         applicantId:2,
         interviewerId:1,
-        date: "06/9/22",
+        date: "05/9/22",
         score:70
     },
     {
         applicantId:3,
         interviewerId:4,
-        date: "06/9/22",
+        date: "04/9/22",
         score:100
     },
     {
         applicantId:3,
         interviewerId:3,
-        date: "06/9/22",
+        date: "03/9/22",
         score:98
     },
     {
         applicantId:4,
         interviewerId:4,
-        date: "06/9/22",
+        date: "02/9/22",
         score:28
     },
     {
         applicantId:4,
         interviewerId:1,
-        date: "06/9/22",
+        date: "01/9/22",
         score:66
     },
     {
         applicantId:5,
         interviewerId:2,
-        date: "06/9/22",
+        date: "04/9/22",
         score:84
     },
     {
         applicantId:5,
         interviewerId:3,
-        date: "06/9/22",
+        date: "01/9/22",
         score:50
     },
 ]
